@@ -30,8 +30,8 @@ nav img{
 .custom-contact-card{
     text-align: center;
 }
-.subscribe{
-    padding: 2% 5%;
+form{
+    width: 80%;
 }
 form button{
     margin: 2%;
