@@ -1,6 +1,9 @@
 *{
     margin: 0; padding: 0;
 }
+nav img{
+    width: 100px;
+}
 
 .welcome-part button{
     margin-top: 5%;
@@ -26,4 +29,10 @@
 
 .custom-contact-card{
     text-align: center;
+}
+.subscribe{
+    padding: 2% 5%;
+}
+form button{
+    margin: 2%;
 }
