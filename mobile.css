@@ -30,9 +30,10 @@ nav img{
 .custom-contact-card{
     text-align: center;
 }
-form{
+/* form{
     width: 80%;
-}
+    margin: auto;
+} */
 form button{
     margin: 2%;
 }
